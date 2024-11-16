@@ -5,6 +5,8 @@
 tssln(Voisona)のファイルがオリジナルなので基本的にこれを使用することをおすすめします。
 うまく発音できない場合などは、連続音なしのustファイルを利用してください。
 
+ファイルが対応していない場合は[UtaFormatix](https://sdercolin.github.io/utaformatix3/)にて変換を行うことができます。
+
 ご利用の際は[双葉湊音カバー](https://www.youtube.com/watch?v=KavIg-heA6M)またはこのリポジトリのリンクを記載いただけると幸いです。
 
 
