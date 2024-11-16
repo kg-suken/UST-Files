@@ -3,6 +3,7 @@
 生徒手帳を見ながら打ち込んで作りました
 
 当初NEUTRINO用に作ったMusicXMLファイルとSynthesizerVカバーの時に作成したSVPを配布します
+
 MusicXMLやSVPが使えないソフトに使う場合は[こちら](https://github.com/kg-suken/UST-Files/tree/main?tab=readme-ov-file#%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E5%BD%A2%E5%BC%8F%E3%81%8C%E5%AF%BE%E5%BF%9C%E3%81%97%E3%81%A6%E3%81%84%E3%81%AA%E3%81%84%E5%A0%B4%E5%90%88)に書いてある方法で変換等してください
 変換を行った際に歌詞が抜け落ちる場合があるかもしれないのでその場合はご自身で修正してください
 
