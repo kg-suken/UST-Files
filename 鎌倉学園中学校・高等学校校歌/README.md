@@ -8,7 +8,7 @@ MusicXMLやSVPが使えないソフトに使う場合は[こちら](https://gith
 
 変換を行った際に歌詞が抜け落ちる場合があるかもしれないのでその場合はご自身で修正してください
 
-利用の際は[配布動画](https://youtu.be/7kwF4yNcF9U)へのリンクを記載してください
+利用の際は[配布動画](https://youtu.be/7kwF4yNcF9U)と[このリポジトリ](https://github.com/kg-suken/UST-Files)へのリンクを記載してください
 
 ## Synthesizer V花熊千冬, 小春六花, 夏色花梨カバー
 
